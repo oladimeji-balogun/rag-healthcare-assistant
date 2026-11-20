@@ -9,8 +9,8 @@ A healthcare-focused chatbot application using Streamlit and LangChain.
 
 Clone the repository:
 
-```git clone https://github.com/OlaTheTechie/Agentic-RAG-assistant.git```<br />
-```cd Agentic-RAG-assistant```
+```git clone https://github.com/oladimeji-balogun/rag-healthcare-assistant.git```<br />
+```cd rag-healthcare-assistant```
 
 Install requirements:
 
